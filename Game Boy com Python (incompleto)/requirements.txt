@@ -1,0 +1,7 @@
+pyboy==1.4.11
+numpy==1.26.0
+pillow==10.1.0
+pysdl2==0.9.17
+pysdl2-dll==2.32.0
+Flask==2.3.3
+werkzeug==2.3.7
