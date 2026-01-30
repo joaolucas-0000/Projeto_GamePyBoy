@@ -53,7 +53,7 @@ pip install pyboy pysdl2 pysdl2-dll pillow
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/GamePy-2.0.git
+https://github.com/joaolucas-0000/Projeto_GamePyBoy.git
 cd GamePy-2.0
 ```
 
@@ -129,9 +129,3 @@ Pull requests são bem-vindos. Para mudanças maiores, abra uma issue antes para
 Este projeto está sob a licença **MIT**.
 
 ---
-
-## 🧠 Nota Final
-
-Este projeto não é sobre perfeição — é sobre **aprender como sistemas clássicos funcionam**, quebrar a cabeça e entender limites reais de software.
-
-Se você chegou até aqui: parabéns, você já sabe mais sobre emulação do que 90% das pessoas 😄
