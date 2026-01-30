@@ -8,7 +8,7 @@ Um emulador de **Game Boy / Game Boy Color** em Python, construído como projeto
 
 ## 📌 Funcionalidades
 
-* Execução de jogos **Game Boy (GB)** e **Game Boy Color (GBC)**
+* Execução de jogos **Game Boy (GB)**
 * Janela gráfica via **SDL2**
 * Sistema modular (main, emulator, config)
 * Suporte a ROMs externas
