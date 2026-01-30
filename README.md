@@ -1,4 +1,4 @@
-# 🎮 GamePy 2.0
+# 🎮 GamePy 1.0
 
 Um emulador de **Game Boy / Game Boy Color** em Python, construído como projeto educacional usando a biblioteca **PyBoy**. O objetivo do projeto é estudar emulação, arquitetura de sistemas clássicos, integração com SDL2 e gerenciamento de áudio/vídeo em tempo real.
 
